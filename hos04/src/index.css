@@ -46,4 +46,8 @@ ul {
   padding-left: 20px;
 }
 
-.Error { color: red; }
+h3, p { margin: 5px 0px; }
+.panel {
+  padding: 10px;
+  border: 1px solid #aaa;
+}
